@@ -1,6 +1,6 @@
 ## Simple shooter 3D via Unity
 
-Note final: 98.5
+Note final: 98.5%
 
 ## Informations
 Contrôles: WASD, space bar et sourie (esc pour quitter)
